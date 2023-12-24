@@ -13,4 +13,4 @@ También disfruto mucho de viajar, explorar diferentes culturas y perspectivas, 
 
 Bienvenidos a mi perfil de GitHub, donde podrán ver mi progreso y los proyectos en los que estoy trabajando. 
 ¡Estoy abierta a colaboraciones y nuevas oportunidades de aprendizaje!
---->
+
