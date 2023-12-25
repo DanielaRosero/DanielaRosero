@@ -14,3 +14,15 @@ También disfruto mucho de viajar, explorar diferentes culturas y perspectivas, 
 Bienvenidos a mi perfil de GitHub, donde podrán ver mi progreso y los proyectos en los que estoy trabajando. 
 ¡Estoy abierta a colaboraciones y nuevas oportunidades de aprendizaje!
 
+
+
+
+Hello 👋, I am a biochemist with a master's degree in microbiology, currently diving into the exciting world of data analysis. My professional journey has taken me from the lab to data analysis, where I combine my life sciences experience with emerging technical skills.
+
+📊 Data Analysis: I am currently in a data analysis bootcamp, where I am developing skills in Python, especially in libraries such as NumPy, Pandas, and data visualization tools. Additionally, I have acquired basic knowledge in SQL, Azure, and web scraping techniques. I am fascinated by the ability to transform data into meaningful and revealing information.
+
+🔍 Passion and Goals: My passion lies in data analysis and interpretation, always seeking to extract valuable and actionable conclusions. On GitHub, my goal is to continuously learn, collaborate, and build a portfolio of projects that reflect my growing skills in data analysis.
+
+🌍 More About Me: Outside of my professional life, I volunteer at the Red Cross, where I apply my empathy and skills to help others. I also greatly enjoy traveling, exploring different cultures and perspectives, which enriches both my personal and professional life.
+
+Welcome to my GitHub profile, where you can see my progress and the projects I am working on. I am open to collaborations and new learning opportunities!
