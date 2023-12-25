@@ -15,7 +15,7 @@ Bienvenidos a mi perfil de GitHub, donde podrán ver mi progreso y los proyectos
 ¡Estoy abierta a colaboraciones y nuevas oportunidades de aprendizaje!
 
 
-
+----------
 
 Hello 👋, I am a biochemist with a master's degree in microbiology, currently diving into the exciting world of data analysis. My professional journey has taken me from the lab to data analysis, where I combine my life sciences experience with emerging technical skills.
 
